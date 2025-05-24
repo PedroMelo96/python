@@ -1,3 +1,16 @@
+# === REQUISITOS MÍNIMOS DO SISTEMA ===
+print("""
+ATENÇÃO: Para utilizar este programa corretamente, o sistema deve atender aos seguintes requisitos mínimos:
+
+- Processador: Intel de 8ª geração ou equivalente
+- Memória RAM: 8 GB
+- Armazenamento: 120 GB disponíveis em um SSD
+- Sistema Operacional: Windows 10 ou superior
+
+Certifique-se de que seu computador atende a esses requisitos antes de continuar.
+""")
+
+
 import json
 import os
 import hashlib
